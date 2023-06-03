@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994169860362",
+    "project_id": "pt02-57bd6",
+    "storage_bucket": "pt02-57bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994169860362:android:bb7c5341209f73d80a0af3",
+        "android_client_info": {
+          "package_name": "com.afg.hairpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUMB1dAG7-WIKpe_C8QDeWtAvV2udBClY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
